@@ -7,7 +7,9 @@
 <p align="center">
   <b>Interactive HR Analytics Dashboard built with Tableau</b><br>
   Explore workforce trends, employee demographics, departments, salary, hiring, termination and geographic distribution.
-</p>
+</p> 
+
+
 
 
 <p align="center">
