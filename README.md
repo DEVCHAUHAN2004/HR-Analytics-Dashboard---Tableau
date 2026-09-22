@@ -3,7 +3,7 @@
 <p align="center">
   <img src="assets/hr-dashboard-overview.jpg" alt="HR Analytics Dashboard Overview" width="900">
 </p>
-
+ 
 <p align="center">
   <b>Interactive HR Analytics Dashboard built with Tableau</b><br>
   Explore workforce trends, employee demographics, departments, salary, hiring, termination and geographic distribution.
