@@ -11,11 +11,11 @@
 
 <p align="center">
   <a href="https://public.tableau.com/app/profile/dev.chauhan2863/viz/HRAnalyticsDashboard_17900090583170/HRSummary">
-    <img src="https://img.shields.io/badge/View%20Dashboard-Tableau%20Public-000000?style=for-the-badge&logo=tableau&logoColor=E31B23">
+    <img src="https://img.shields.io/badge/View%20Dashboard-Tableau%20Public-111111?style=for-the-badge&logo=tableau&logoColor=FF3B3B">
   </a>
-  <img src="https://img.shields.io/badge/Tableau-Visualization-111111?style=for-the-badge&logo=tableau&logoColor=E31B23">
+  <img src="https://img.shields.io/badge/Tableau-Visualization-1A1A1A?style=for-the-badge&logo=tableau&logoColor=FF3B3B">
   <img src="https://img.shields.io/badge/Domain-HR%20Analytics-8B0000?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Type-Data%20Analytics-E31B23?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Type-Data%20Analytics-C62828?style=for-the-badge">
 </p>
 
 ---
@@ -225,7 +225,7 @@ HR-Analytics-Dashboard-Tableau/
 
 <p align="center">
   <a href="https://public.tableau.com/app/profile/dev.chauhan2863/viz/HRAnalyticsDashboard_17900090583170/HRSummary">
-    <img src="https://img.shields.io/badge/Explore%20Dashboard-Tableau%20Public-1f77b4?style=for-the-badge&logo=tableau&logoColor=white">
+    <img src="https://img.shields.io/badge/Explore%20Dashboard-111111?style=for-the-badge&logo=tableau&logoColor=FF3B3B">
   </a>
 </p>
 
