@@ -11,11 +11,11 @@
 
 <p align="center">
   <a href="https://public.tableau.com/app/profile/dev.chauhan2863/viz/HRAnalyticsDashboard_17900090583170/HRSummary">
-    <img src="https://img.shields.io/badge/View%20Dashboard-Tableau%20Public-1f77b4?style=for-the-badge&logo=tableau&logoColor=white">
+    <img src="https://img.shields.io/badge/View%20Dashboard-Tableau%20Public-000000?style=for-the-badge&logo=tableau&logoColor=E31B23">
   </a>
-  <img src="https://img.shields.io/badge/Tableau-Visualization-1f77b4?style=for-the-badge&logo=tableau&logoColor=white">
-  <img src="https://img.shields.io/badge/Domain-HR%20Analytics-00a86b?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Type-Data%20Analytics-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Tableau-Visualization-111111?style=for-the-badge&logo=tableau&logoColor=E31B23">
+  <img src="https://img.shields.io/badge/Domain-HR%20Analytics-8B0000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Type-Data%20Analytics-E31B23?style=for-the-badge">
 </p>
 
 ---
