@@ -1,230 +1,243 @@
-# 📊 HR Analytics Dashboard — Tableau
-
-<p align="center">
-  <img src="assets/hr-dashboard-overview.jpg" alt="HR Analytics Dashboard Overview" width="900">
-</p> 
-
-
-
-
-
-
- 
-<p align="center">
-  <b>Interactive HR Analytics Dashboard built with Tableau</b><br>
-  Explore workforce trends, employee demographics, departments, salary, hiring, termination and geographic distribution.
-</p> 
-
-
-
-
-<p align="center">
-  <a href="https://public.tableau.com/app/profile/dev.chauhan2863/viz/HRAnalyticsDashboard_17900090583170/HRSummary">
-    <img src="https://img.shields.io/badge/View%20Dashboard-Tableau%20Public-1f77b4?style=for-the-badge&logo=tableau&logoColor=white">
-  </a>
-  <img src="https://img.shields.io/badge/Tool-Tableau-1f77b4?style=for-the-badge&logo=tableau&logoColor=white">
-  <img src="https://img.shields.io/badge/Domain-HR%20Analytics-00a86b?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Type-Data%20Visualization-orange?style=for-the-badge">
-</p>
-
----
-
-
-
-## 🔗 Live Dashboard
-
-### 👉 [View Interactive HR Analytics Dashboard on Tableau Public](https://public.tableau.com/app/profile/dev.chauhan2863/viz/HRAnalyticsDashboard_17900090583170/HRSummary)
-
-> 💡 Open the live dashboard to interact with filters, explore employee details and analyze different HR dimensions.
-
----
-
-## 🧠 About the Project
-
-The **HR Analytics Dashboard** is an interactive Tableau project designed to transform HR data into meaningful and easy-to-understand visual insights.
-
-The dashboard provides both an **executive-level overview** and a **detailed employee-level view**, allowing users to explore workforce information across multiple dimensions.
-
-### 🎯 Main Objective
-
-To analyze and visualize:
-
-- 👥 Employee workforce
-- 📈 Hiring trends
-- 📉 Termination trends
-- 🏢 Department distribution
-- 👨‍💼 Gender demographics
-- 🎓 Education levels
-- 🎂 Age groups
-- 💰 Salary and income
-- 🌎 Geographic distribution
-- 🔎 Employee-level details
-
----
-
-## 📸 Dashboard Preview
-
-### 🏠 Overview Dashboard
+# HR Analytics Dashboard — Tableau
 
 <p align="center">
   <img src="assets/hr-dashboard-overview.jpg" alt="HR Analytics Dashboard Overview" width="950">
 </p>
 
-The **Overview** page provides a high-level summary of the workforce through KPIs and interactive visualizations.
+<p align="center">
+  <strong>Interactive HR Analytics Dashboard built with Tableau</strong><br>
+  Analyze workforce trends, employee demographics, departments, salary, hiring, termination, and geographic distribution.
+</p>
+
+<p align="center">
+  <a href="https://public.tableau.com/app/profile/dev.chauhan2863/viz/HRAnalyticsDashboard_17900090583170/HRSummary">
+    <img src="https://img.shields.io/badge/View%20Dashboard-Tableau%20Public-1f77b4?style=for-the-badge&logo=tableau&logoColor=white">
+  </a>
+  <img src="https://img.shields.io/badge/Tableau-Visualization-1f77b4?style=for-the-badge&logo=tableau&logoColor=white">
+  <img src="https://img.shields.io/badge/Domain-HR%20Analytics-00a86b?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Type-Data%20Analytics-orange?style=for-the-badge">
+</p>
 
 ---
 
-### 🔍 Details Dashboard
+## Live Dashboard
+
+**[View Interactive HR Analytics Dashboard on Tableau Public](https://public.tableau.com/app/profile/dev.chauhan2863/viz/HRAnalyticsDashboard_17900090583170/HRSummary)**
+
+Explore the dashboard interactively using filters, KPIs, charts, maps, and employee-level details.
+
+---
+
+## About the Project
+
+The **HR Analytics Dashboard** is an interactive Tableau project designed to analyze workforce data and convert it into meaningful business insights.
+
+The dashboard provides both a **high-level HR summary** and a **detailed employee-level view**, enabling users to analyze workforce composition, hiring and termination trends, compensation, demographics, and geographic distribution.
+
+### Project Objectives
+
+* Analyze overall workforce composition
+* Monitor hiring and termination trends
+* Compare employee distribution across departments
+* Analyze gender, age, and education demographics
+* Explore salary and income patterns
+* Understand geographic workforce distribution
+* Provide employee-level filtering and exploration
+* Present HR metrics through an interactive dashboard
+
+---
+
+## Dashboard Preview
+
+### HR Summary / Overview
+
+<p align="center">
+  <img src="assets/hr-dashboard-overview.jpg" alt="HR Analytics Dashboard Overview" width="950">
+</p>
+
+The **Overview** dashboard provides an executive-level view of key workforce metrics and HR trends.
+
+### HR Details
 
 <p align="center">
   <img src="assets/hr-dashboard-details.jpg" alt="HR Analytics Dashboard Details" width="950">
 </p>
 
-The **Details** page allows users to explore employee information using multiple interactive filters.
+The **Details** dashboard provides a more granular employee-level view with interactive filtering.
 
 ---
 
-## 📌 Key Dashboard Features
+## Key Metrics & Analysis
 
-| Feature | Description |
-|---|---|
-| 📊 KPI Cards | Active, hired and terminated employee metrics |
-| 🏢 Department Analysis | Compare employee distribution across departments |
-| 👥 Demographics | Analyze gender and age distribution |
-| 🎓 Education Analysis | Explore workforce by education level |
-| 💰 Income Analysis | Analyze income across education and gender |
-| 🌎 Location Analysis | Visualize employee distribution geographically |
-| 📈 Hiring Trends | Track employee hiring patterns |
-| 📉 Termination Trends | Analyze termination patterns |
-| 🔎 Interactive Filters | Filter the dashboard by multiple employee attributes |
-| 📋 Employee Details | Explore detailed employee-level information |
-
----
-
-## 📊 Dashboard Pages
-
-### 1️⃣ HR Summary / Overview
-
-The Overview page focuses on the most important HR metrics and visual insights.
-
-**Includes:**
-
-- 👥 Active Employees
-- 🟢 Hired Employees
-- 🟣 Terminated Employees
-- 🏢 Department-wise employee distribution
-- 👨‍👩‍👧 Gender distribution
-- 🎓 Education & age analysis
-- 💵 Income analysis
-- 🗺️ Geographic distribution
-- 📈 Workforce trends
+| Area             | Analysis                                  |
+| ---------------- | ----------------------------------------- |
+| Workforce        | Active, hired, and terminated employees   |
+| Departments      | Employee distribution by department       |
+| Demographics     | Gender and age-group analysis             |
+| Education        | Workforce distribution by education level |
+| Compensation     | Income and salary analysis                |
+| Hiring           | Hiring trends over time                   |
+| Termination      | Termination trends over time              |
+| Geography        | Employee distribution by location         |
+| Employee Details | Detailed employee-level exploration       |
 
 ---
 
-### 2️⃣ HR Details
+## Dashboard Pages
 
-The Details page provides a more granular view of employee information.
+### 1. HR Summary
 
-**Available filters include:**
+The Summary page provides a high-level overview of the organization's workforce.
 
-- 🆔 Employee ID
-- 👤 Full Name
-- ⚧ Gender
-- 🎂 Age Group
-- 🎓 Education Level
-- 🏢 Department
-- 💼 Job Title
-- 📍 Location
-- 🗺️ State
-- 🏙️ City
-- 💰 Salary
+**Key components:**
 
----
+* Active Employees
+* Hired Employees
+* Terminated Employees
+* Department-wise Workforce
+* Gender Distribution
+* Age Group Analysis
+* Education Analysis
+* Income Analysis
+* Geographic Distribution
+* Hiring & Termination Trends
 
-## 💡 Business Questions Answered
+### 2. HR Details
 
-This dashboard helps explore questions such as:
+The Details page enables users to explore employee-level information through interactive filters.
 
-- How many employees are currently active?
-- How many employees were hired and terminated?
-- Which departments have the largest workforce?
-- What is the gender distribution?
-- How is the workforce distributed across age groups?
-- What education levels are represented in the workforce?
-- How does income vary across education and gender?
-- Where are employees geographically located?
-- How do hiring and termination trends change over time?
-- How can specific employee groups be analyzed using filters?
+**Available dimensions include:**
 
----
-
-## 🛠️ Tools & Technologies
-
-<p align="center">
-
-![Tableau](https://img.shields.io/badge/Tableau-Visualization-1f77b4?style=flat-square&logo=tableau&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-EDA-00a86b?style=flat-square)
-![Dashboard](https://img.shields.io/badge/Interactive-Dashboard-orange?style=flat-square)
-
-</p>
-
-### Technology Stack
-
-- **Tableau** — Dashboard development and visualization
-- **Calculated Fields** — Analytical calculations and derived metrics
-- **Filters** — Interactive data exploration
-- **Data Visualization** — Charts, KPIs and analytical views
-- **HR Analytics** — Workforce and employee analysis
+* Employee ID
+* Employee Name
+* Gender
+* Age Group
+* Education Level
+* Department
+* Job Title
+* Location
+* State
+* City
+* Salary
 
 ---
 
-## 🧩 Skills Demonstrated
+## Business Questions
 
-- 📊 Data Visualization
-- 🔎 Exploratory Data Analysis
-- 📈 Trend Analysis
-- 🎯 KPI Development
-- 🎨 Dashboard Design
-- 🧮 Calculated Fields
-- 🔄 Interactive Filtering
-- 👥 HR Analytics
-- 💼 Business Intelligence
-- 🗺️ Geographic Analysis
-- 📋 Detailed Data Exploration
+The dashboard helps answer questions such as:
 
----
-
-## 🚀 Project Highlights
-
-### 👥 Workforce Analytics
-
-Analyzed employee distribution across departments, gender, age, education and location.
-
-### 📈 Hiring & Termination Analysis
-
-Created visual views to understand employee hiring and termination patterns.
-
-### 💰 Income Analysis
-
-Explored income distribution across education and gender dimensions.
-
-### 🔎 Interactive Exploration
-
-Added filters that allow users to drill into specific employee groups and attributes.
-
-### 🎨 Dashboard Design
-
-Built a dark-themed, interactive dashboard with consistent visual elements and navigation between summary and detailed views.
+1. What is the current workforce size?
+2. How many employees have been hired and terminated?
+3. Which departments have the largest employee population?
+4. What is the gender composition of the workforce?
+5. How is the workforce distributed across different age groups?
+6. Which education levels are most common among employees?
+7. How does income vary across education levels and gender?
+8. Where are employees geographically distributed?
+9. How have hiring and termination patterns changed over time?
+10. How can specific employee segments be analyzed using dashboard filters?
 
 ---
 
-## 📂 Project Structure
+## Tools & Technologies
+
+### Tableau
+
+* Interactive Dashboard Development
+* Data Visualization
+* Calculated Fields
+* Filters
+* Parameters
+* KPI Cards
+* Trend Analysis
+* Geographic Visualization
+* Dashboard Navigation
+* Interactive Employee-Level Analysis
+
+### Analytics Concepts
+
+* Exploratory Data Analysis
+* Workforce Analytics
+* Demographic Analysis
+* Trend Analysis
+* KPI Analysis
+* Comparative Analysis
+* Business Intelligence
+
+---
+
+## Skills Demonstrated
+
+* Data Analysis
+* Data Visualization
+* Exploratory Data Analysis (EDA)
+* Tableau
+* Dashboard Development
+* Calculated Fields
+* KPI Development
+* Interactive Filtering
+* Trend Analysis
+* Geographic Analysis
+* HR Analytics
+* Business Intelligence
+
+---
+
+## Project Highlights
+
+### Workforce Analysis
+
+Analyzed workforce distribution across departments, gender, age groups, education levels, and geographic locations.
+
+### Hiring & Termination Trends
+
+Visualized hiring and termination patterns to understand workforce changes over time.
+
+### Compensation Analysis
+
+Analyzed income across different education and gender segments.
+
+### Interactive Filtering
+
+Implemented interactive filters to allow users to analyze specific employee groups and dimensions.
+
+### Dashboard Design
+
+Designed a structured dark-themed dashboard with consistent visual elements, KPI cards, charts, maps, and navigation between summary and detail views.
+
+---
+
+## Project Structure
 
 ```text
 HR-Analytics-Dashboard-Tableau/
 │
-├── 📄 README.md
+├── README.md
 │
-└── 📁 assets/
-    ├── 🖼️ hr-dashboard-overview.jpg
-    └── 🖼️ hr-dashboard-details.jpg
+└── assets/
+    ├── hr-dashboard-overview.jpg
+    └── hr-dashboard-details.jpg
+```
+
+---
+
+## Tableau Public
+
+<p align="center">
+  <a href="https://public.tableau.com/app/profile/dev.chauhan2863/viz/HRAnalyticsDashboard_17900090583170/HRSummary">
+    <img src="https://img.shields.io/badge/Explore%20Dashboard-Tableau%20Public-1f77b4?style=for-the-badge&logo=tableau&logoColor=white">
+  </a>
+</p>
+
+---
+
+## Author
+
+**Dev Chauhan**
+
+B.Tech CSE (Data Science)
+Aspiring Data Analyst
+
+* GitHub: [DEVCHAUHAN2004](https://github.com/DEVCHAUHAN2004)
+* Tableau Public: [dev.chauhan2863](https://public.tableau.com/app/profile/dev.chauhan2863)
+* Portfolio: [devchauhan.vercel.app](https://devchauhan.vercel.app)
